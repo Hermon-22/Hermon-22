@@ -9,7 +9,7 @@
 
 - 🌱 I'm currently learning **Java**
 
-- 💬 Ask me about **Javascript, Typescript, Java, **
+- 💬 Ask me about **Javascript, Typescript, Java**
 
 - ⚡ Fun fact **I forget to add semicolon 😅**
 
