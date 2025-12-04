@@ -4,9 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Hermon-22&style=flat-square&abbreviated=true)
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/Hermon-22/github-stats-transparent/output/generated/overview.svg" alt="Hermon" align="right" />
-</a>
 ---
 
 - 🔭 Currently improving backend skills with **Java & Spring Boot**
@@ -23,6 +20,7 @@
 </a>
 
 </p>
+
 ---
 
 ### 🛠️ Languages & Tools
@@ -33,15 +31,12 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hermon-22&show_icons=true&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hermon-22&layout=compact&hide_border=true&theme=radical)
-
----
-
-## 😂 Random Developer Joke
-<img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0"/>
+<img src="https://raw.githubusercontent.com/Hermon-22/github-stats-transparent/output/generated/overview.svg" alt="Hermon overview" align="right" />
+<img src = "https://github.com/Hermon-22/github-stats-transparent/blob/output/generated/languages.svg" alt="languages" align="left"/>
 
 ---
 
-✨ Thanks for visiting — feel free to check out my repos or connect!
+<p>✨ Thanks for visiting — feel free to check out my repos or connect!</p>
+
+---
