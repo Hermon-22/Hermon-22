@@ -32,8 +32,13 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://raw.githubusercontent.com/Hermon-22/github-stats-transparent/output/generated/overview.svg" alt="Hermon overview" align="right" />
-<img src = "https://github.com/Hermon-22/github-stats-transparent/blob/output/generated/languages.svg" alt="languages" align="left"/>
+<img src="https://raw.githubusercontent.com/Hermon-22/github-stats-transparent/output/generated/overview.svg" alt="Hermon overview" />
+<img src = "https://github.com/Hermon-22/github-stats-transparent/blob/output/generated/languages.svg" alt="languages" />
+
+---
+
+## 😂 Random Developer Joke
+<img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0"/>
 
 ---
 
